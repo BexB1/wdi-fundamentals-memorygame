@@ -55,7 +55,7 @@ nav {
 	margin: 0 auto;
 }
 
-.board {
+#game-board {
 	height: 50%;
 	width: 50%;
 	display: inline-block;
