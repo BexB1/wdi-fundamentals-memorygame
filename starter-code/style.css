@@ -64,7 +64,6 @@ img {
 #game-board {
 	height: 50%;
 	width: 50%;
-	/* display: inline-block; */
 	margin: 0px auto;
 
 }
@@ -79,7 +78,6 @@ img {
 	display: inline-block;
 }
 
-
 .name {
 	font-family: 'Love Ya Like a Sister', sans-serif;
 	font-variant: uppercase;
@@ -88,20 +86,6 @@ img {
 	background-color: rgba(195,100,150,.5)
 }
 
-/* #left {
-	float: left;
-	width: 46%;
-	padding: 2%;
-	margin: 0 auto;
-}
-
-#right {
-	float: right;
-	width: 46%;
-	padding: 2%;
-	margin: 0 auto;
-}
-*/
 
 footer {
 	clear: both;
